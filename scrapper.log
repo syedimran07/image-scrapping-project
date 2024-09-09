@@ -1,0 +1,188 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.21:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:00:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:00:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:00:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name 'os' is not defined
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:00:44] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.21:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:name 'BeautifulSoup' is not defined
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:18] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name 'BeautifulSoup' is not defined
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:23] "POST /review HTTP/1.1" 200 -
+INFO:root:name 'BeautifulSoup' is not defined
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:23] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.21:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:52] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:57] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.9:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.20.10.9 - - [22/Feb/2023 11:24:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.9 - - [22/Feb/2023 11:24:04] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.9 - - [22/Feb/2023 11:24:04] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.9 - - [22/Feb/2023 11:24:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.20.10.9 - - [22/Feb/2023 11:24:16] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.13:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:01:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:01:52] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:01:52] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:01:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=applelaptop&sxsrf=AJOqlzUuff1RXi2mm8I_OqOwT9VjfIDL7w:1676996143273&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiq-qK7gaf9AhXUgVYBHYReAfYQ_AUoA3oECAEQBQ&biw=1920&bih=937&dpr=1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:02:10] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.1.13:80
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-850-178
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:04:32] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:04:32] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:04:32] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:04:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=iphone&sxsrf=AJOqlzUuff1RXi2mm8I_OqOwT9VjfIDL7w:1676996143273&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiq-qK7gaf9AhXUgVYBHYReAfYQ_AUoA3oECAEQBQ&biw=1920&bih=937&dpr=1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:04:37] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imran.basha\\Downloads\\Image-Scraper-Selenium-main\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imran.basha\\Downloads\\Image-Scraper-Selenium-main\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imran.basha\\Downloads\\Image-Scraper-Selenium-main\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-850-178
+INFO:werkzeug: * Detected change in 'C:\\Users\\imran.basha\\Downloads\\Image-Scraper-Selenium-main\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imran.basha\\Downloads\\Image-Scraper-Selenium-main\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imran.basha\\Downloads\\Image-Scraper-Selenium-main\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imran.basha\\Downloads\\Image-Scraper-Selenium-main\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imran.basha\\Downloads\\Image-Scraper-Selenium-main\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imran.basha\\Downloads\\Image-Scraper-Selenium-main\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imran.basha\\Downloads\\Image-Scraper-Selenium-main\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imran.basha\\Downloads\\Image-Scraper-Selenium-main\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imran.basha\\Downloads\\Image-Scraper-Selenium-main\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imran.basha\\Downloads\\Image-Scraper-Selenium-main\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imran.basha\\Downloads\\Image-Scraper-Selenium-main\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imran.basha\\Downloads\\Image-Scraper-Selenium-main\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-850-178
+INFO:root:HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=iphone&sxsrf=AJOqlzUuff1RXi2mm8I_OqOwT9VjfIDL7w:1676996143273&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiq-qK7gaf9AhXUgVYBHYReAfYQ_AUoA3oECAEQBQ&biw=1920&bih=937&dpr=1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:05:59] "POST /review HTTP/1.1" 200 -
+INFO:root:HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=iphone&sxsrf=AJOqlzUuff1RXi2mm8I_OqOwT9VjfIDL7w:1676996143273&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiq-qK7gaf9AhXUgVYBHYReAfYQ_AUoA3oECAEQBQ&biw=1920&bih=937&dpr=1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:02] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:04] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:15] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:15] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:16] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:16] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:16] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=iphone&sxsrf=AJOqlzUuff1RXi2mm8I_OqOwT9VjfIDL7w:1676996143273&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiq-qK7gaf9AhXUgVYBHYReAfYQ_AUoA3oECAEQBQ&biw=1920&bih=937&dpr=1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:06:21] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imran.basha\\Downloads\\Image-Scraper-Selenium-main\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imran.basha\\Downloads\\Image-Scraper-Selenium-main\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imran.basha\\Downloads\\Image-Scraper-Selenium-main\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-850-178
+INFO:werkzeug: * Detected change in 'C:\\Users\\imran.basha\\Downloads\\Image-Scraper-Selenium-main\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imran.basha\\Downloads\\Image-Scraper-Selenium-main\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imran.basha\\Downloads\\Image-Scraper-Selenium-main\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-850-178
+INFO:werkzeug: * Detected change in 'C:\\Users\\imran.basha\\Downloads\\Image-Scraper-Selenium-main\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imran.basha\\Downloads\\Image-Scraper-Selenium-main\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imran.basha\\Downloads\\Image-Scraper-Selenium-main\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-850-178
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.1.13:80
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-850-178
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:07:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:07:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:07:55] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=iphone&safe=active&sca_esv=cca1506e5bb311d6&sca_upv=1&biw=1366&bih=599&udm=2&ei=8ereZsiGHZiMnesPtL6cuA8&ved=0ahUKEwiIw8yj77WIAxUYRmcHHTQfB_cQ4dUDCBA&uact=5&oq=iphone&gs_lp=Egxnd3Mtd2l6LXNlcnAiBmlwaG9uZTIOEAAYgAQYsQMYgwEYigUyCBAAGIAEGLEDMgUQABiABDIIEAAYgAQYsQMyCBAAGIAEGLEDMgQQABgDMgUQABiABDIIEAAYgAQYsQMyBRAAGIAEMg4QABiABBixAxiDARiKBUiw3g5Q-70OWJfXDnADeACQAQCYAasDoAGNCqoBBzAuNS40LTG4AQPIAQD4AQGYAgigAq8KqAIAwgIKEAAYgAQYQxiKBcICCxAAGIAEGLEDGIMBmAMBiAYBkgcHMi41LjQtMaAHlR0&sclient=gws-wiz-serp (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2024 18:07:58] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imran.basha\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\logging\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-850-178
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.1.13:80
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-850-178
+INFO:werkzeug: * Detected change in 'C:\\Users\\imran.basha\\Downloads\\Image-Scraper-Selenium-main\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imran.basha\\Downloads\\Image-Scraper-Selenium-main\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imran.basha\\Downloads\\Image-Scraper-Selenium-main\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-850-178
